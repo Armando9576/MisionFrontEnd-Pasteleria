@@ -1,0 +1,72 @@
+* {
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.logo{
+    float:right;
+}
+
+.logo2 {
+    clear:right;
+    height: 150px;
+    width: 150px;
+}
+
+
+.titulo {
+    text-align: center;
+}
+
+.pastel1 {
+    height: 300px;
+    width: 300px;
+}
+
+.pastel2 {
+    height: 300px;
+    width: 300px;
+}
+
+.pastel3 {
+    height: 300px;
+    width: 300px;
+}
+
+.pastel4 {
+    height: 300px;
+    width: 300px;
+}
+
+.pastel5 {
+    height: 300px;
+    width: 300px;
+}
+
+.pastel6 {
+    height: 300px;
+    width: 300px;
+}
+
+.pastel7 {
+    height: 300px;
+    width: 300px;
+}
+
+.adornos {
+    height: 300px;
+    width: 300px;
+}
+
+/* No, no no es un error que los pasteles y los adornos siendo iguales, los decorara de diferente manera, usando mas de una clase para los pasteles, y solo una para los adornos, solo queria dejar claro que si entendi como funcionaban las clases. */

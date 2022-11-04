@@ -1,0 +1,19 @@
+* {
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.logo{
+    float:right;
+}
+
+.logo2 {
+    clear:right;
+    height: 150px;
+    width: 150px;
+}
+
+.titulo {
+    text-align: center;
+}
+
